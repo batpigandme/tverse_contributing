@@ -1,2 +1,2 @@
-# tverse_contributing
-📽 the future home of "contributing to the tidyverse" slides…
+# contributing to the tidyverse
+![contributing to the tidyverse title slide](https://i.imgur.com/IIPit3P.png)
